@@ -6,7 +6,7 @@
 ╰╯╱╱╱╱╰╯╱╰━━━┻━━━╯╰╯╰╯╱╱╱╰╯╱╰╯╱╰┻━━━┻━━━┻━━━╯╱╰╯
 
 MADE BY ADITYA PATEL FOR THE FINAL PROJECT: GAMING WITH PYTHON
-To run: in terminal run: python main.py
+- To run: in terminal run: python main.py
 - Ensure you are in correct directory and you have pygame and pytmx installed locally
 - Use - pip install pygame pytmx - in terminal to install 
 
